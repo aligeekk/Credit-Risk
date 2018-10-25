@@ -1,0 +1,2 @@
+# Credit-Risk
+The purpose of our project is to calculate CREDIT RISK.   The data was gathered from Lending Club.   The link is https://www.lendingclub.com/info/download-data.action There is also a data dictionary that comes along, below is the link  https://docs.google.com/spreadsheets/d/191B2yJ4H1ZPXq0_ByhUgWMFZOYem5jFz0Y3by_7YBY4/edit#gid=2081333097  Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan  with investors looking to lend money and make a return.
